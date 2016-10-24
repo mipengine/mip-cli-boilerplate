@@ -1,0 +1,33 @@
+{
+  "name": "mip-cli",
+  "version": "1.0.0",
+  "description": "mip cli boilerplate",
+  "preferGlobal": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mipengine/mip-cli-boilerplate"
+  },
+  "keywords": [
+    "mip",
+    "boilerplate",
+    "mip-cli"
+  ],
+  "contributors": [
+    {
+      "name": "mkwiser",
+      "email": "kekee000@gmail.com"
+    },
+    {
+      "name": "erik",
+      "email": "errorrik@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "files": [
+    "boilerplate"
+  ]
+}
