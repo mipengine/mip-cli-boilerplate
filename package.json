@@ -1,6 +1,6 @@
 {
-  "name": "mip-cli",
-  "version": "1.0.0",
+  "name": "mip-cli-boilerplate",
+  "version": "1.0.1",
   "description": "mip cli boilerplate",
   "preferGlobal": true,
   "main": "index.js",
