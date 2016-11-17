@@ -1,11 +1,11 @@
 <!--mipmain调试-->
-<script src="/mipmain/deps/promise.js"></script>
-<script src="/mipmain/deps/fetch.js"></script>
-<script src="/mipmain/deps/document-register-element.max.js"></script>
-<script src="/mipmain/deps/esl.js"></script>
+<script src="/mip-local/deps/promise.js"></script>
+<script src="/mip-local/deps/fetch.js"></script>
+<script src="/mip-local/deps/document-register-element.max.js"></script>
+<script src="/mip-local/deps/esl.js"></script>
 <script>
     require.config({
-        baseUrl: '/mipmain/src',
+        baseUrl: '/mip-local/src',
         paths: {
             'zepto': '../deps/zepto',
             'naboo': '../deps/naboo',
@@ -15,4 +15,4 @@
     });
 </script>
 
-<script src="/mipmain/src/mip.js"></script>
+<script src="/mip-local/src/mip.js"></script>
