@@ -16,3 +16,4 @@
 </script>
 
 <script src="/miplocal/src/mip.js"></script>
+<script>require(["mip"])</script>
