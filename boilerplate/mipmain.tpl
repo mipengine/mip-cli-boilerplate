@@ -8,6 +8,7 @@
         baseUrl: '/miplocal/src',
         paths: {
             'zepto': '../deps/zepto',
+            'jquery': '../deps/jquery',
             'naboo': '../deps/naboo',
             'spark': '../deps/spark',
             'fetch-jsonp': '../deps/fetch-jsonp'
