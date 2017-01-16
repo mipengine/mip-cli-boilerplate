@@ -6,7 +6,7 @@ ${name} 组件说明
 ----|----
 类型|通用
 支持布局|responsive,fixed-height,fill,container,fixed
-所需脚本|http://mipcache.bdstatic.com/static/${name}/{版本号}/${name}.js
+所需脚本|http://mipcache.bdstatic.com/static/{版本号}/${name}/${name}.js
 
 ## 示例
 
