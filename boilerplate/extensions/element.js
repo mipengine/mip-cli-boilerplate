@@ -4,6 +4,7 @@
  */
 
 define(function (require) {
+    'use strict';
 
     var customElement = require('customElement').create();
 
